@@ -1,5 +1,5 @@
 # TB Kelompok 5 Informatika B
-Program Absensi Koperai Simpan Pinjam Bina Artha Niaga
+Program Koperai Simpan Pinjam Bina Artha Niaga
 
 Anggota Kelompok 1 Informatika B
 - M. Yusuf Ferandy	(2206038)
